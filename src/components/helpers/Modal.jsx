@@ -25,7 +25,7 @@ export default class Modal extends Component {
     }
   };
 
-  //for App
+  //for App.
   // toggleModal = () => {
   //   this.setState(({ isModalOpen }) => ({
   //     isModalOpen: !isModalOpen,
